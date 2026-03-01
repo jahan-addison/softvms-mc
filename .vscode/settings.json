@@ -1,0 +1,13 @@
+{
+  "C_Cpp.files.exclude": {
+    "**/src/amiga_main.c": true,
+    "**/src/amiga_mainwin.c": true,
+    "**/src/dc_main.c": true,
+    "**/src/dc_mainwin.c": true,
+    "**/src/dos_main.c": true,
+    "**/src/dos_mainwin.c": true,
+    "**/src/win32_main.c": true,
+    "**/src/win32_mainwin.c": true,
+    "**/src/nsplugin.c": true
+  }
+}
